@@ -1,4 +1,5 @@
 # accordion-example
+This is a simple accordion built using vue.js.
 
 ## Project setup
 ```
